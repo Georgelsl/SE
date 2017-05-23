@@ -1,0 +1,98 @@
+{
+    "modules":[
+        {
+            "moduleName":"PROGRAMMING 2",
+            "moduleCode":"1",
+            "assignmentName":"C Programming",
+            "setDate":"2016-10-16",
+            "dueDate":"2016-11-23(Extended)",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"10/100"
+        },
+		{
+            "moduleCode":"1",
+            "assignmentName":"Java Programming",
+            "setDate":"2017-1-1",
+            "dueDate":"2017-2-1",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"25/100"
+        },
+		{
+            "moduleCode":"1",
+            "assignmentName":"C ++ Programming",
+            "setDate":"2017-3-26",
+            "dueDate":"2017-4-26",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"15/100"
+        },
+		{
+            "moduleCode":"1",
+            "assignmentName":"Examination",
+            "setDate":"2017-5-26",
+            "dueDate":"2017-5-26",
+            "forExam":"Yes",
+            "forCoursework":"No",
+            "weighting":"50/100"
+        },
+        {
+            "moduleName":"NETWORKS",
+            "moduleCode":"2",
+            "assignmentName":"Coursework 1",
+            "setDate":"2017-2-6",
+            "dueDate":"2017-3-11(Extended)",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"30/100"
+        },
+        {
+            "moduleCode":"2",
+            "assignmentName":"Coursework 2",
+            "setDate":"2017-4-10",
+            "dueDate":"2017-5-10",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"30/100"
+        },
+		{
+            "moduleCode":"2",
+            "assignmentName":"Examination",
+            "setDate":"2017-6-6",
+            "dueDate":"2017-6-6",
+            "forExam":"Yes",
+            "forCoursework":"No",
+            "weighting":"40/100"
+        },
+		{
+            "moduleName":"DATA STRUCTURES AND ALGORITHMS",
+            "moduleCode":"3",
+            "assignmentName":"Module Assessment Exercises 1",
+            "setDate":"2016-11-8",
+            "dueDate":"2016-12-8",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"15/100"
+        },
+		{
+            "moduleCode":"3",
+            "assignmentName":"Module Assessment Exercises 2",
+            "setDate":"2017-2-22",
+            "dueDate":"2017-3-22",
+            "forExam":"No",
+            "forCoursework":"Yes",
+            "weighting":"35/100"
+        },
+		{
+            "moduleCode":"3",
+            "assignmentName":"Examination",
+            "setDate":"2017-6-12",
+            "dueDate":"2017-6-12",
+            "forExam":"Yes",
+            "forCoursework":"No",
+            "weighting":"50/100"
+        }
+    ],
+    "desc":"2016/7"
+}
